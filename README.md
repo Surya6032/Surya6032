@@ -16,7 +16,6 @@
 
 - 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science at [University of North Alabama](https://una.edu/);
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cosmos 🚀, etc..;
-- 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via psurya.924@gmail.com to reach me;
 <br/>

@@ -1,4 +1,4 @@
-## Hi there, I'm [Surya](https://surya6032.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/surya6032?style=social)
+## Hi there, I'm [Surya](http://www.suryasingh.me/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> ![GitHub followers](https://img.shields.io/github/followers/surya6032?style=social)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=surya6032&style=flat-square)
 

@@ -14,7 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 💼 I’m currently pursuing my final year of Bachelor's degree in Computer Science at [University of North Alabama](https://una.edu/);
+- 💼 I’m a graduate with a Bachelor's degree in Computer Science from [University of North Alabama](https://una.edu/);
 - 🤔 My interests are with Artificial Intelligence 🖥️, Machine Learning📊, Cosmos 🚀, etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via psurya.924@gmail.com to reach me;

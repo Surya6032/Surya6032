@@ -12,12 +12,7 @@
 
 <em>
 
-**Talking about Personal Stuffs:**
 
-- 💼 I’m a graduate with a Bachelor's degree in Computer Science from [University of North Alabama](https://una.edu/);
-- 🤔 Data is what I live for📊;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via psurya.924@gmail.com to reach me;
 <br/>
 </em>
 

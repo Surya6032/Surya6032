@@ -55,8 +55,5 @@
 ### ✨ Fun Fact
 
 - 🌟 I love exploring **new technologies** and trying out **open-source projects**.  
-- 🌍 Outside of coding, you can find me [add hobby/interest, e.g., hiking, playing chess, or binge-watching sci-fi movies].
+- 🌍 Outside of coding, you can find me playing chess 
 
----
-
-This refined version organizes your content a little more cleanly, adds some fun and professional touches, and focuses on readability. Let me know if you'd like any further adjustments! 🚀

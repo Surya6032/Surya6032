@@ -21,6 +21,7 @@
 - 🤝 Open to **collaborations** and **freelance opportunities**.  
 - 📈 Passionate about solving complex problems with **data-driven solutions**.
 
+---
 
 ### ⚡ GitHub Stats
 <p align="center">
@@ -29,6 +30,7 @@
   </a>
 </p>
 
+---
 
 ### 💻 Top Languages
 

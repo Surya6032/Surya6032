@@ -21,7 +21,6 @@
 - 🤝 Open to **collaborations** and **freelance opportunities**.  
 - 📈 Passionate about solving complex problems with **data-driven solutions**.
 
----
 
 ### ⚡ GitHub Stats
 <p align="center">
@@ -29,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=surya6032&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="Surya's GitHub Stats">
   </a>
 </p>
----
+
 
 ### 💻 Top Languages
 
@@ -38,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya6032&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" alt="Top Languages">
   </a>
 </p>
----
+
 
 ### 🌐 Connect with Me
 

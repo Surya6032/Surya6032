@@ -40,12 +40,11 @@
   </a>
 </p>
 
+---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Surya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surya6032/)](https://www.linkedin.com/in/surya6032)  
-[![Instagram Badge](https://img.shields.io/badge/-@surya_pratap_singh._-e02c73?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/surya_pratap_singh._/)](https://www.instagram.com/surya_pratap_singh._/)  
-[![Gmail Badge](https://img.shields.io/badge/-psurya.924@gmail.com-d54b3d?style=flat-square&logo=Gmail&logoColor=white&link=mailto:psurya.924@gmail.com)](mailto:psurya.924@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Surya-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/surya6032/)
 
 ---
 

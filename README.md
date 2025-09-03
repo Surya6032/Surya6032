@@ -18,7 +18,6 @@
 ### 🚀 About Me
 
 - 💻 I specialize in **data engineering**, building **ETL pipelines**, and working with **big data technologies**.  
-- 🌱 Currently learning **[add what you're learning, e.g., Apache Kafka, Spark, or AI techniques]**.  
 - 🤝 Open to **collaborations** and **freelance opportunities**.  
 - 📈 Passionate about solving complex problems with **data-driven solutions**.
 

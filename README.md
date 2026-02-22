@@ -17,21 +17,6 @@
 ---
 
 ### ⚡ GitHub Stats
-
-#### 💻 Overall Stats
-<p align="center">
-  <a href="https://github.com/surya6032">
-    <img src="https://github-readme-stats.vercel.app/api?username=surya6032&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="Surya's GitHub Stats">
-  </a>
-</p>
-
-#### 💻 Top Languages
-<p align="center">
-  <a href="https://github.com/surya6032">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surya6032&layout=compact&langs_count=10&include_all_commits=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400" alt="Top Languages">
-  </a>
-</p>
-
 #### 🛠 Commit-Based Languages
 <p align="center">
   <a href="https://github.com/surya6032">

@@ -15,27 +15,6 @@
 - 📈 **Passion**: Solving complex problems with **data-driven solutions** is what drives me.
 
 ---
-
-### ⚡ GitHub Stats
-#### 🛠 Commit-Based Languages
-<p align="center">
-  <a href="https://github.com/surya6032">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surya6032&theme=radical" alt="Most Used Languages by Commit">
-  </a>
-</p>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/surya6032">
-    <img src="https://github-profile-trophy.vercel.app/?username=surya6032&theme=darkhub&margin-w=15&margin-h=15&title=Followers,Stars,Commit,Repositories,Issues" alt="Surya's GitHub Trophies">
-  </a>
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Surya-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/surya6032/)  
